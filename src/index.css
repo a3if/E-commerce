@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque&family=Croissant+One&family=DM+Sans:opsz,wght@9..40,200&family=Handlee&family=Pacifico&family=Playfair+Display&family=Public+Sans:wght@300&family=Roboto+Slab&family=Rubik:wght@300&family=Sacramento&family=Signika&display=swap');
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Signika', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
